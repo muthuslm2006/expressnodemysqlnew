@@ -21,7 +21,7 @@ router.get('/getregister', function(req, res, next) {
 });
 
 
-
+// router.get('/updateregister', function(req, res, next) {
 //get register with id base select list
 
 router.get('/getregister/:id', function(req, res, next) {
